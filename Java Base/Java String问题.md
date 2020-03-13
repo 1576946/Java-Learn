@@ -7,8 +7,7 @@
 2. equal 方法和 == 的区别？
 3. switch 可以使用字符串吗？ 这多问的是switch
 4. String vs StringBuffer vs StringBuilder
-5. String 是如何比较两个字符串的？
-6. String的方法有哪些？看看对String的熟悉程度，越多越好
+5. String的方法有哪些？看看对String的熟悉程度，越多越好
 
 ##### 核心疑问
 1. Java的String为什么是不变的？
